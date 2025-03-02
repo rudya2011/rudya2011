@@ -22,7 +22,7 @@
 </body>\
 </html>\
 }
-[Upl{\rtf1\ansi\ansicpg1252\cocoartf2759
+{\rtf1\ansi\ansicpg1252\cocoartf2759
 \cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
@@ -50,8 +50,8 @@ button:hover \{\
     background-color: darkblue;\
     color: white;\
 \}\
-}oading styles.css.rtf…]()
-[{\rtf1\ansi\ansicpg1252\cocoartf2759
+}
+[U{\rtf1\ansi\ansicpg1252\cocoartf2759
 \cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
@@ -61,5 +61,4 @@ button:hover \{\
 \f0\fs24 \cf0 function showMessage() \{\
     alert("Hello! You clicked the button.");\
 \}\
-}Uploading script.js.rtf…]()
-
+}ploading script.js.rtf…]()
